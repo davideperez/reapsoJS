@@ -69,4 +69,14 @@ console.log("-------------")
 
 const descuentoAplicar = null;
 
+const miCosa = {}
+
 console.log(typeof descuentoAplicar)
+
+/* 
+PUNTOS A DESTACAR:
+
+Siempre que se cree una variable, se crea con el valor undefined. 
+
+
+*/
