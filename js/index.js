@@ -24,6 +24,26 @@ Objetos Manipulacion:
 Arrays
 - Creacion, lenght, toString
 - Agregar (con spread operator), borrar y reemplazar.
-- Iteradores: .forEach y .map
+- Iteradores: .forEach, .map y filter
+- Array Methods: includes(), 
 
+Functions:
+- Functions declarations
+- Functions Expressions
+- Arrow Functions
+- Arrow Functions & Arrays
+
+Conditionals:
+- Operators
+- Compracion estricta y no estricta. (chequeo de tipado)
+- Compracion con booleanos
+- Condicional ternario y doble ternario.
+
+DOM: 
+- querySelector
+- querySelectorAll
+- DOM Events:
+    - click
+    - inputs
+    - submit
 */
