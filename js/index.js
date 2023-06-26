@@ -24,6 +24,6 @@ Objetos Manipulacion:
 Arrays
 - Creacion, lenght, toString
 - Agregar (con spread operator), borrar y reemplazar.
-- 
+- Iteradores: .forEach y .map
 
 */
