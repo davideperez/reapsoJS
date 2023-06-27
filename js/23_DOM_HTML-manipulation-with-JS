@@ -9,7 +9,7 @@ console.log(heading.textContent)
 heading.textContent = 'Un nuevo Heading'
 
 
-//cambiando el contenido de campo de un formulario:
+//Modificamos el contenido de campo de un formulario:
 
 const inputNombre = document.querySelector('#nombre')
 
@@ -18,7 +18,7 @@ inputNombre.value = 'Un valor por default'
 console.log(inputNombre)
 
 
-//cambiando el contenido de un array de etiquetas html:
+//Modificamos el contenido de un array de etiquetas html:
 
 const enlaces = document.querySelectorAll('.navegacion a')
 
