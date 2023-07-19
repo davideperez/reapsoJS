@@ -1,6 +1,6 @@
 /*
 
-Tipos de Datos  
+1 Tipos de Datos  
 - Undefined
 - Boolean
 - Number
@@ -10,40 +10,41 @@ Tipos de Datos
 - Null
 - palabra reservada: typeof
 
-Objetos:
+2 Objetos:
 - creacion
 - destructuring
 - object literla enhancement
 
-Objetos Manipulacion:
+3 Objetos Manipulacion:
 - Reescribir, agregar y eliminar propiedaeds.
 - Blocking. (.freeze y .seal)
 - Destructuring con alias 
 - Spread Operator (para unir 2 objetos)
 
-Arrays
+4 Arrays
 - Creacion, lenght, toString
 - Agregar (con spread operator), borrar y reemplazar.
 - Iteradores: .forEach, .map y filter
 - Array Methods: includes(), 
 
-Functions:
+5 Functions:
 - Functions declarations
 - Functions Expressions
 - Arrow Functions
 - Arrow Functions & Arrays
 
-Conditionals:
+6 Conditionals:
 - Operators
 - Compracion estricta y no estricta. (chequeo de tipado)
 - Compracion con booleanos
 - Condicional ternario y doble ternario.
 
-DOM: 
+7 DOM Manipulation: 
 - querySelector
 - querySelectorAll
 - DOM Events:
     - click
     - inputs
     - submit
-*/
+
+    */
