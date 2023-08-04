@@ -46,5 +46,16 @@
     - click
     - inputs
     - submit
+- DOM html creation:
+    - .createElement
+    - .classList.add('') // to add classes
+    - appendChild()
+8-import y export
+9-Fetch API
+- then
+- async await
+- Promises.all() multiple async awaits
+- performance.now()
+10- Template strings
 
-    */
+*/
